@@ -29,7 +29,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YakootShaker/YakootShaker/main/profile-summary-card-output/vue-dark/3-stats.svg" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/YakootShaker/YakootShaker/main/profile-summary-card-output/<THEME-FOLDER>/3-stats.svg" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=YakootShaker&theme=vue-dark&hide_title=true" alt="GitHub Streak"/>
 </p>
