@@ -19,7 +19,7 @@
 
 ---
 
-### 🌱 I'm currently learning and exploring
+###  I'm currently learning and exploring
 
 - Currently participating in the DEBI Internship Program, focusing on real-world projects in AI and Data Engineering.
 - NTI – Enrolled in the Machine Learning Track, applying ML algorithms and tools to solve practical problems.
