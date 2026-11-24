@@ -1,65 +1,52 @@
-<h1 align="center">Hi there, I'm Yakoot 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=160&section=header&text=Yakoot&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header"/>
+
+<a href="https://github.com/YakootShaker">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I'm+Yakoot;CS+student+%26+builder;Learning+AI+%26+Data+Engineering;Building+things+that+live+on+the+internet" alt="Typing animation"/>
+</a>
+
+</div>
+
+<br>
+
+### 🚀 Tech
 
 <p align="center">
-  A passionate and driven student constantly exploring the fascinating world of software development.
-  I enjoy building things that live on the internet and am always eager to learn new technologies and improve my skills.
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
+### 🌱 Now
 
+- 🤖 **NTI**: Machine Learning track
+- 🛠️ **DEBI Internship**: real-world AI & Data Engineering projects
 
-### 🚀 Technologies & Tools
+### 📊 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YakootShaker&show_icons=true&custom_title=Stats&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" alt="GitHub Stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=YakootShaker&hide_title=true&background=0D1117&border=2EA043&ring=2EA043&fire=2EA043&currStreakNum=2EA043&currStreakLabel=2EA043&sideNums=2EA043&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
 </p>
 
----
-
-###  I'm currently learning and exploring
-
-- Currently participating in the DEBI Internship Program, focusing on real-world projects in AI and Data Engineering.
-- NTI – Enrolled in the Machine Learning Track, applying ML algorithms and tools to solve practical problems.
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YakootShaker&theme=vue" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=YakootShaker&theme=vue-dark&hide_title=true" alt="GitHub Streak"/>
-</p>
----
-
-### 💬 Connect with me!
+### 💬 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yakoot537@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="mailto:2305557@anu.edu.eg">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
-  </a>
-  <a href="https://www.facebook.com/share/16XFbG5bed/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/yakoot33" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/201147351772" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  Thanks for stopping by!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0D1117&height=100&section=footer" alt="Footer"/>
